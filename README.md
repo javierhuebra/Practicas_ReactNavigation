@@ -15,7 +15,7 @@ Practias de como rutear una app en react native
 - npm install react-native-safe-area-context
 
 - npm install @react-navigation/native-stack
-import {NavigationContainer} from '@react-navigation/native';
-import {createNativeStackNavigator} from '@react-navigation/native-stack';
- 
+
+import {NavigationContainer} from '@react-navigation/native';<br>
+import {createNativeStackNavigator} from '@react-navigation/native-stack';<br>
 const Stack = createNativeStackNavigator(); 
