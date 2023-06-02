@@ -5,7 +5,7 @@ Practias de como rutear una app en react native
 <img width="300px" src="/src/images/1.jpeg"/>
 </div>
 
-//DEPENDENCIAS USADAS PARA REACT NAVIGATION + IMPORTS
+//DEPENDENCIAS USADAS PARA REACT NAVIGATION + IMPORTS (Atencion el return del app debe estar contenido en <></> sino no anda)
  
 
 - npm install @react-navigation/native
